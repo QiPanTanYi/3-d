@@ -24,7 +24,7 @@
 - `typescript` - 5.7.3
 - `vite` - ^6.0.3
 
-> **注意**: `components/ui/` 目录包含 shadcn/ui 组件文件，但项目未安装 tailwindcss 及相关依赖，这些组件可能未被使用或需要额外配置。
+> **注意**: `components/ui/` 目录包含 shadcn/ui 组件文件，但项目未安装 tailwindcss 及相关依赖，这些组件可能未被使用或需要额外配置。（后续不需要可以删除）
 
 ## 文件夹结构
 
